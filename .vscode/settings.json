@@ -6,12 +6,40 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
-        ".vscode": true
+        ".vscode": true,
+        "src/app/__pycache__": true,
+        "src/app/functions/algorithm_description/__pycache__": true,
+        "src/app/functions/__pycache__": true,
+        "src/app/functions/tsp_solve/__pycache__": true,
+        "src/app/algorithm/__pycache__": true,
+        "src/app/algorithm/classes/__pycache__": true,
+        "src/algorithm/__pycache__": true,
+        "src/algorithm/classes/__pycache__": true,
+        ".venv": true,
+        "requirements.txt": true,
+        "src/algorithm/functions/__init__.py": true,
+        "src/algorithm/classes/__init__.py": true,
+        "src/algorithm/functions/__pycache__": true
     },
     "hide-files.files": [
-        ".vscode"
+        ".vscode",
+        "src/app/__pycache__",
+        "src/app/functions/algorithm_description/__pycache__",
+        "src/app/functions/__pycache__",
+        "src/app/functions/tsp_solve/__pycache__",
+        "src/app/algorithm/__pycache__",
+        "src/app/algorithm/classes/__pycache__",
+        "src/algorithm/__pycache__",
+        "src/algorithm/classes/__pycache__",
+        ".venv",
+        "requirements.txt",
+        "src/algorithm/functions/__init__.py",
+        "src/algorithm/classes/__init__.py",
+        "src/algorithm/functions/__pycache__"
     ],
     "cSpell.words": [
-        "arange"
+        "arange",
+        "capslock",
+        "networkx"
     ]
 }
